@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sib:home|Door43 (sib)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sib|d43-sib repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sib/archive/master.zip|d43-sib.zip]]
+
+**Recent Changes**
+{{changes>ns = sib}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sib|Ethnologue data]]
+
